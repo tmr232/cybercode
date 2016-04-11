@@ -6,6 +6,7 @@ Everyone knows Cyber makes everything better. Now you can use it in your code!
 
 ```C
 #include <stdio.h>
+#include <cyber.h>
 
 cyber void main(void)
 {
